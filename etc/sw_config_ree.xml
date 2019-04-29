@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><sunwave:Config xmlns:sunwave="http://www.sunwavecorp.com/some-location" Environment="REE" platform="项目信息: 冠群豪成康隆GQ3056S9863056-531B-F0859SW531B">
+  
+  
+	
+  	
+  <function>
+	<function_mode cname="按键导航功能选择" default="1" desc="功能选择" format="array" options="无附加功能|按键|导航|双击" useable="true" values="0|1|2|3">1</function_mode>
+	
+	
+	
+	 
+	
+    
+	
+	
+    
+    </function>
+  <verify>
+  
+  <message_base cname="消息基准值" default="1000" desc="消息基准值" format="array" options="Android os|ali os" useable="true" values="1000|1100">1100</message_base>
+    </verify>
+  
+  
+</sunwave:Config>
